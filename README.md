@@ -1,11 +1,15 @@
-## Hi there 👋
+## 🤓 A Little Bit About Me
 
 <h1 align="center">Hi 👋, I'm Allan</h1>
-<h3 align="center">A passionate frontend developer from the Bay Area</h3>
+<h3 align="center">A creative developer from the Bay Area</h3>
 
-- 🔭 I’m currently working on an **iOS app that helps with writing estimates for contractor work in multiple languages**
+- 🔭 I’m currently building an **iOS app that helps independent contractors quickly generate job estimates** — fully bilingual (Spanish/English) and designed for real-world usability.  
+- 📱 I recently completed an **iOS travel guide app (WhereTo)** using SwiftUI, Firebase, and location-based APIs.  
+- 🌱 I’m actively working with **Swift**, **React**, and **Node.js**, and improving my DevOps skills via Docker and GitHub Actions.  
+- 🎯 My goal is to create software that genuinely helps people — whether it’s contractors, travelers, or anyone needing intuitive tools.  
+- 🎨 Outside of coding, I’m a photographer and love building tools that combine tech + creativity.  
+- 💼 Currently preparing for **software engineering roles** while expanding my portfolio with impactful, real-world projects.  
 
-- 🌱 I’m currently using **Swift** and **React**
 
 
 <h3 align="left">Languages and Tools:</h3>
