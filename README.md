@@ -7,21 +7,7 @@
 
 - 🌱 I’m currently learning **sdfsdfsdf**
 
-- 👯 I’m looking to collaborate on **sdfsd**
-
-- 🤝 I’m looking for help with **sdfsdfsdd**
-
-- 👨‍💻 All of my projects are available at [sdfsfsdf](sdfsfsdf)
-
-- 📝 I regularly write articles on [sdfsdfdsf](sdfsdfdsf)
-
-- 💬 Ask me about **sdfsdfdsfsdf**
-
 - 📫 How to reach me **ssdfsdfsdf**
-
-- 📄 Know about my experiences [sdfsdfsdfdsf](sdfsdfsdfdsf)
-
-- ⚡ Fun fact **sdfsf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
