@@ -3,29 +3,28 @@
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A creative developer from the Bay Area</h3>
 
-- 🔭 I’m currently building an **iOS app that helps independent contractors quickly generate job estimates** — fully bilingual (Spanish/English) and designed for real-world usability.  
-- 📱 I recently completed **WhereTo**, an iOS travel guide app built with SwiftUI, Firebase, and location-based APIs.  
-- 🌱 I’m actively working with **Swift**, **React**, and **Node.js**, while leveling up my DevOps experience with **Docker** and **GitHub Actions**.  
-- 🎯 I love building software that solves real problems — whether it's for contractors, travelers, or anyone who appreciates thoughtful design.  
-- 🎨 Outside of coding, I’m a photographer and love creating tools where **tech meets creativity**.  
-- 💼 Preparing for **software engineering roles** and expanding my portfolio with impactful, real-world projects.  
+- 🔭 Currently building an **iOS app that helps independent contractors generate job estimates** — fully bilingual (Spanish/English) and designed for real-world usability.  
+- 📱 Recently completed **WhereTo**, an iOS travel guide app built with SwiftUI, Firebase, and location-based APIs.  
+- 🌱 Actively working with **Swift**, **React**, and **Node.js**, while leveling up my DevOps experience with **Docker** and **GitHub Actions**.  
+- 🎯 Passionate about building software that solves real problems — for contractors, travelers, and anyone who appreciates thoughtful design.  
+- 🎨 Outside of coding, I’m a photographer who loves creating tools where **tech meets creativity**.  
+- 💼 Preparing for **software engineering roles** and growing my portfolio with impactful, real-world projects.  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 📱 WhereTo – iOS Travel Guide App  
+### 📱 WhereTo — iOS Travel Guide App  
 A location-aware SwiftUI app using Firebase, Ticketmaster API, and Wikipedia data.  
 ➡️ *Real-time events, city info, saved favorites, and a clean travel UI.*
 
 ### 🛠️ Contractor Estimate Builder (WIP)  
-A bilingual (Spanish/English) tool that helps independent contractors quickly generate job estimates with templates, price presets, and PDF export.
+A bilingual (Spanish/English) tool that helps independent contractors quickly generate job estimates with templates, preset pricing, and PDF export.
 
 ### 📸 Photography Portfolio  
-My custom Next.js + Tailwind portfolio showing concerts, travel, and city photography.  
+A custom Next.js + Tailwind portfolio showcasing concerts, travel, and city photography.  
 
 ---
-
 
 ## 🚀 Featured Skills & Technologies
 
@@ -61,30 +60,6 @@ My custom Next.js + Tailwind portfolio showing concerts, travel, and city photog
 
 ---
 
-## 🛠️ Tech Stack (Quick View)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllanConstanza&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanConstanza&layout=compact&theme=dark" height="160"/>
-</p>
----
-
 ## 📬 Connect With Me
 
 <p align="left">
@@ -95,6 +70,7 @@ My custom Next.js + Tailwind portfolio showing concerts, travel, and city photog
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 
 <!--
