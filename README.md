@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Quick View)
+## 🛠️ Tech Stack 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
