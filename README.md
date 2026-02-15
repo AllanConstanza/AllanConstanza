@@ -5,7 +5,7 @@
 
 - 🔭 Currently building an **iOS app that helps independent contractors generate job estimates** — fully bilingual (Spanish/English) and designed for real-world usability.  
 - 📱 Recently completed **WhereTo**, an iOS travel guide app built with SwiftUI, Firebase, and location-based APIs.  
-- 🌱 Actively working with **Swift**, **React**, and **Node.js**, while leveling up my DevOps experience with **Docker** and **GitHub Actions**.  
+- 🌱 Actively working with **Swift**, **React**, and **Python**, while leveling up my DevOps experience with **Docker** and **GitHub Actions**.  
 - 🎯 Passionate about building software that solves real problems — for contractors, travelers, and anyone who appreciates thoughtful design.  
 - 🎨 Outside of coding, I’m a photographer who loves creating tools where **tech meets creativity**.  
 - 💼 Preparing for **software engineering roles** and growing my portfolio with impactful, real-world projects.  
