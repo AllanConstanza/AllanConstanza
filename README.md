@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">Software Engineer & IT Support Specialist from the Bay Area</h3>
 
-- 💻 Pursuing roles in both **software engineering** and **IT helpdesk/support** — hands-on with real systems, not just theory.
+- 💻 Pursuing roles in both **software engineering** and **IT helpdesk/support**.
 - 🖥️ **2 years of IT support experience** as a Computer User Support Specialist at Chico State's Meriam Library — laptop, Chromebook, printer, projector, and 3D printer support for students.
 - 📜 Currently studying for **CompTIA A+ (Core 1 & Core 2)**, building toward an Active Directory homelab and a custom ticketing system project.
 - 📱 Recently completed **WhereTo**, an iOS travel guide app built with SwiftUI, Firebase, and location-based APIs.
