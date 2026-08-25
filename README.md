@@ -55,8 +55,8 @@ A location-aware SwiftUI app using Firebase, Ticketmaster API, and Wikipedia dat
 ### 🤖 Employee Performance Grader
 A Python tool built with FastAPI and Pandas that uses the OpenAI API to score employee performance against weighted KPIs.
 
-### 📸 Photography Portfolio
-A custom Next.js + Tailwind portfolio showcasing concerts, travel, and city photography.
+### 🧾 Invoices Application
+A bilingual (Spanish/English) tool that helps independent contractors quickly generate job estimates and invoices with templates, preset pricing, and PDF export.
 
 ---
 
