@@ -7,7 +7,7 @@
 - 🖥️ **2 years of IT support experience** as a Computer User Support Specialist at Chico State's Meriam Library — laptop, Chromebook, printer, projector, and 3D printer support for students.
 - 📜 Currently studying for **CompTIA A+ (Core 1 & Core 2)**, building toward an Active Directory homelab and a custom ticketing system project.
 - 📱 Recently completed **WhereTo**, an iOS travel guide app built with SwiftUI, Firebase, and location-based APIs.
-- 🤖 Built the **Employee Performance Grader**, a Python/FastAPI tool using Pandas and the OpenAI API for weighted KPI scoring.
+- 🤖 Built an **Employee Performance Grader**, a Python/FastAPI tool using Pandas and the OpenAI API for weighted KPI scoring.
 - 🌱 Actively working with **Swift**, **React**, and **Python**, while leveling up my DevOps experience with **Docker** and **GitHub Actions**.
 - 🎨 Outside of tech, I'm a photographer who loves creating tools where **tech meets creativity**.
 
@@ -29,7 +29,7 @@
 - Logged and handed off detailed issue notes as part of an informal support workflow
 
 **In progress**
-- 📖 Studying for CompTIA A+ (Core 1 & Core 2) — using Professor Messer's materials
+- 📖 Studying for CompTIA A+ (Core 1 & Core 2) 
 - 🖧 Next up: an **Active Directory homelab** (VirtualBox/VMware, Windows Server, AD DS, GPOs, DHCP)
 - 🎫 Then: a **custom ticketing system** modeled on ServiceNow's UX — includes an AI-driven live-chat simulator for practicing ticket triage and client responses (FastAPI + React/Next.js + SQL)
 
